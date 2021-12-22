@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning programming in Adalab 💻 .
-- 💬 Ask me about  HTML5, CSS3, JavaScript, React.
-- 📫 Where you can find me: 👩🏽‍💻 @Alejandraemepe 
+- 💬 Ask me about  HTML5, CSS3, Sass, JavaScript, React.
+- 📫 Where you can find me: 👩🏽‍💻  Twitter: @Alejandraemepe  Linkedin: 
 - 😄 Pronouns: she/her.
 
